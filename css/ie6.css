@@ -1,0 +1,66 @@
+/*
+
+Designed and developed by:
+
+
+     _       _          __  __       ____      _     _   _             
+    | | __ _| | _____  |  \/  | ___ / ___|   _(_)___| |_(_) ___  _ __  
+ _  | |/ _` | |/ / _ \ | |\/| |/ __| |  | | | | / __| __| |/ _ \| '_ \ 
+| |_| | (_| |   <  __/ | |  | | (__| |__| |_| | \__ \ |_| | (_) | | | |
+ \___/ \__,_|_|\_\___| |_|  |_|\___|\____\__,_|_|___/\__|_|\___/|_| |_|
+                                                                       
+
+Jake McCuistion
+
+*/
+
+#beginRibbon {
+	margin-left: -792px;
+}
+
+#contactRibbon {
+	height: 1370px;
+}
+
+
+html img.back {
+ 	behavior: url(/css/iepngfix.htc);
+}
+
+#introQuote {
+	position: absolute;
+	margin-left: 150px;
+}
+
+.titleMcCuistion {
+	left: -69px;
+}
+.titleJake {
+	left: -70px;
+}
+#crossOverRibbonA {	
+	margin-left: 100px;
+	width: 708px;
+}
+#crossOverRibbonA span {	
+	width: 708px;
+}
+#aboutRibbon {
+	margin-left: 50px;
+}
+#crossOverRibbonC img {
+	margin-left: 280px;
+}
+#likesRibbon {
+	margin-left: -10px;
+
+}
+#aBetterBrowser {
+	display: block;
+}
+#slider {
+	display: none;
+}
+#nameBox {
+	margin-left: 0;
+}
